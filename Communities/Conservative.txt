@@ -1,0 +1,4 @@
+5 trials
+225 nodes
+888 edges
+positive links
