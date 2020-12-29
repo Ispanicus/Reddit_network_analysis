@@ -1,0 +1,5 @@
+328 nodes
+1544 edges
+
+Running infomap on this biggest community returns 23 subcommunities with 2 communities accounting for more than half of all nodes.
+The remaining subcommunities are under 10% of the original community's size.
